@@ -1,0 +1,15 @@
+C:\Users\Krille\Desktop\flightZones\bin\Debug\net6.0\flightZones.exe
+C:\Users\Krille\Desktop\flightZones\bin\Debug\net6.0\flightZones.deps.json
+C:\Users\Krille\Desktop\flightZones\bin\Debug\net6.0\flightZones.runtimeconfig.json
+C:\Users\Krille\Desktop\flightZones\bin\Debug\net6.0\flightZones.dll
+C:\Users\Krille\Desktop\flightZones\bin\Debug\net6.0\flightZones.pdb
+C:\Users\Krille\Desktop\flightZones\obj\Debug\net6.0\flightZones.csproj.AssemblyReference.cache
+C:\Users\Krille\Desktop\flightZones\obj\Debug\net6.0\flightZones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krille\Desktop\flightZones\obj\Debug\net6.0\flightZones.AssemblyInfoInputs.cache
+C:\Users\Krille\Desktop\flightZones\obj\Debug\net6.0\flightZones.AssemblyInfo.cs
+C:\Users\Krille\Desktop\flightZones\obj\Debug\net6.0\flightZones.csproj.CoreCompileInputs.cache
+C:\Users\Krille\Desktop\flightZones\obj\Debug\net6.0\flightZones.dll
+C:\Users\Krille\Desktop\flightZones\obj\Debug\net6.0\refint\flightZones.dll
+C:\Users\Krille\Desktop\flightZones\obj\Debug\net6.0\flightZones.pdb
+C:\Users\Krille\Desktop\flightZones\obj\Debug\net6.0\flightZones.genruntimeconfig.cache
+C:\Users\Krille\Desktop\flightZones\obj\Debug\net6.0\ref\flightZones.dll
